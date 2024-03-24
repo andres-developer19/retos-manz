@@ -1,0 +1,19 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 124px;
+    height: 124px;
+    background-color: rgba(155, 87, 218, 0.749);
+    border: 4px solid #000;
+    font-family: Open Sans, sans serif;
+    font-size: 24px;
+    font-weight: 600;
+    display: grid;
+    place-items: center;
+}
